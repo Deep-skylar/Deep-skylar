@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <div>
  <p>
-    <img  src="https://github.com/Deep-skylar/Deep-skylar/blob/main/forgithub.gif?format=1000w" alt="Deep-skylar" width="400" height ="310" />
+    <img  src="https://github.com/maheshdethe01/maheshdethe01/blob/main/forgithub.gif?format=1000w" alt="Deep-skylar" width="400" height ="310" />
     <img align="right" src="https://cdn.dribbble.com/users/668001/screenshots/3861883/data-graphic-animation.gif" alt="Deep-skylar" width="400" height ="310" />
   </p>
 
