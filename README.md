@@ -30,7 +30,7 @@ Here are some ideas to get you started:
    <p> :seedling: I’m currently learning Machine Learning.</p>
  <p> </p>
    <p> :speech_balloon: Ask me about SQL,Python,Data Visualization</p>
-   <p> :mailbox: How to reach me :maheshdethe2001@gmail.com</p>
+   <p> :mailbox: How to reach me :deepaksonawane853@gmail.com</p>
 </div>
 <p align= "center">
 <img src="https://img.shields.io/badge/SQL-MSSQL-red"/>
@@ -42,11 +42,11 @@ Here are some ideas to get you started:
 
 ## :link: Connect with me:
 <span align="left">
-  <a href="https://www.linkedin.com/in/mahesh-dethe/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sharad13"/></a>
-      <a href="mailto:maheshdethe2001@gmail.com">
+  <a href="https://www.linkedin.com/in/deepak-sonawane1/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Deep-skylar"/></a>
+      <a href="mailto:deepaksonawane853@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
-    <p>Call Me: </p> +91-7559194263</p>
+    <p>Call Me: </p> +91-9324626732</p>
 </span>
 Views and Followers </p>
 
